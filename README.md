@@ -1,6 +1,6 @@
 # 🌿 Shri Adithya – Bio Agri Products Website  
 
-![Shri Adithya Banner][https://your-image-link-here.com](https://ibb.co/DD0KsTcj)
+![Shri Adithya Banner](https://ibb.co/DD0KsTcj)
 
 ## 📖 About the Project  
 This is a **responsive website** built for **Shri Adithya** to showcase their **Bio Agri products**. The website highlights their **organic farming solutions, eco-friendly products, and sustainable agriculture practices**, ensuring a seamless browsing experience for customers.  
